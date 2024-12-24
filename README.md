@@ -44,7 +44,7 @@ The project uses the [Pokémon Classification Dataset](https://www.kaggle.com/da
 
 - `resnet50.py`: Implements ResNet50 architecture with residual connections. Includes both training and evaluation code. Achieves 98% validation accuracy.
 
-- `resnet50_test.py`: Separate testing script for ResNet50 model. Handles custom image inputs and provides prediction outputs. Use this for testing the model with new Pokémon images.
+- 'test.py`: Separate testing script with random pokemon image. Handles custom image inputs and provides prediction outputs. Use this for testing the model with new Pokémon images.
 
 - `vgg.py`: VGG model implementation focusing on deep convolutional layers. Includes data preprocessing and training pipeline. Achieves ~60% validation accuracy.
 
