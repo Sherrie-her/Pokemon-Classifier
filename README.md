@@ -1,4 +1,5 @@
 # Pokémon Classifier
+[Team Project Report.pdf](https://github.com/user-attachments/files/18239978/Team.Project.Report.pdf)
 
 A deep learning project that compares different CNN architectures (AlexNet, Inception, ResNet50, VGG) for Pokémon image classification.
 
